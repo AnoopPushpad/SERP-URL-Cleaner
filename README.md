@@ -34,6 +34,10 @@ SERP URL Cleaner is a Chrome extension that automatically cleans URLs with fragm
 3. Use the "Enable/Disable" button to toggle the extension's functionality.
 4. Enter a URL in the input field and click "Clean URL" to manually clean a URL.
 
+## Author
+
+- Anoop Pushpad
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
